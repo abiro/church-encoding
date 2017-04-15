@@ -1,14 +1,7 @@
 # church-encoding
 
-A Clojure library designed to ... well, that part is up to you.
+Experiments with [Church encodings.](https://en.wikipedia.org/wiki/Church_encoding)
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+This library is written against Clojure 1.8.0 and requires [Leiningen 2.x](https://leiningen.org/#install) to test. Run unit tests with `lein test` or `lein test-refresh` for development. The latter will rerun tests when source files change.
